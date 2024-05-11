@@ -1,0 +1,60 @@
+site_name: Học Tiếng Trung qua Youtube, Phim Ảnh và hơn thế nữa.
+site_description: Học Tiếng Trung thông qua việc tiêu thụ nội dung do người Trung làm cho người Trung (Immersion). Hoàn toàn miễn phí, tự học.
+site_author: onlyduyy  
+theme:
+  name: material
+  features:
+    - navigation.sections
+  palette:
+    primary: indigo
+
+nav:
+  - Home: 'index.md'
+  - 'Hướng dẫn':
+    - 'Chung': 'guide.md'
+    - 'Nói': 'noi.md'
+    - 'Đọc': 'doc.md'
+    - 'Hán tự': 'cay-han-tu.md'
+  - 'Đầu vào dễ hiểu':
+    - 'Hướng dẫn': 'input.md'
+    - 'Tài nguyên': 'input-guide.md'
+  - 'Công cụ':
+    - 'Anki': 'anki.md'
+  - 'Tài nguyên':
+    - 'Tài nguyên': 'resources.md'
+    - 'Cộng đồng': 'cong-dong.md'
+  - 'Nội dung':
+    - 'Youtube': 'youtube.md'
+    - 'Podcasts': 'podcasts.md'
+    - 'Phim Ảnh': 'phim-anh.md'
+    - 'Tiểu thuyết': 'tieu-thuyet.md'
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+
+extra:
+  generator: false

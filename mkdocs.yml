@@ -1,5 +1,5 @@
-site_name: Học Tiếng Trung qua Youtube, Phim Ảnh và hơn thế nữa.
-site_description: Học Tiếng Trung thông qua việc tiêu thụ nội dung do người Trung làm cho người Trung (Immersion). Hoàn toàn miễn phí, tự học.
+site_name: Tự học Tiếng Trung không khó
+site_description: Học Tiếng Trung thông qua Comprehensible Input và Immersion. Hoàn toàn miễn phí.
 site_author: onlyduyy  
 theme:
   name: material
@@ -11,23 +11,17 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
-    - 'Chung': 'guide.md'
-    - 'Nói': 'noi.md'
-    - 'Đọc': 'doc.md'
+    - 'Lộ trình': 'guide.md'
     - 'Hán tự': 'cay-han-tu.md'
-  - 'Đầu vào dễ hiểu':
-    - 'Hướng dẫn': 'input.md'
-    - 'Tài nguyên': 'input-guide.md'
-  - 'Công cụ':
-    - 'Anki': 'anki.md'
-  - 'Tài nguyên':
+    - 'Đầu vào dễ hiểu': 'input-guide.md'
+  - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
   - 'Nội dung':
     - 'Youtube': 'youtube.md'
     - 'Podcasts': 'podcasts.md'
     - 'Phim Ảnh': 'phim-anh.md'
-    - 'Tiểu thuyết': 'tieu-thuyet.md'
+    - 'Sách': 'sach.md'
       
 theme:
   palette:

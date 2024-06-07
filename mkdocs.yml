@@ -1,4 +1,4 @@
-site_name: Tự học Tiếng Trung không khó
+site_name: Tự học Tiếng Trung không khó - Khu học mở
 site_description: Học Tiếng Trung thông qua Comprehensible Input và Immersion. Hoàn toàn miễn phí.
 site_author: onlyduyy  
 theme:
@@ -13,14 +13,12 @@ nav:
   - 'Hướng dẫn':
     - 'Lộ trình': 'guide.md'
     - 'Hán tự': 'cay-han-tu.md'
-    - 'Đầu vào dễ hiểu': 'input-guide.md'
   - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
   - 'Nội dung':
     - 'Youtube': 'youtube.md'
     - 'Podcasts': 'podcasts.md'
-    - 'Phim Ảnh': 'phim-anh.md'
     - 'Sách': 'sach.md'
       
 theme:

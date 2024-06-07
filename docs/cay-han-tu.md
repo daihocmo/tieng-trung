@@ -6,17 +6,17 @@ Learning Chinese characters is an arduous task and will literally eat years of y
 
 To start off I'll discuss human memory. The memory is a peculiar thing and is not widely understood by the public. Hell I'm not sure if I got this right since I'm not a neurosurgeon, however I based this on my understanding and experiences. There are multitude of ways to optimize your memory to best learn Chinese characters
 
-1) Understand memory making process
+1. Understand memory making process
 
 Memories are not a single thing but is rather number of processes running simultaneously. It's best thought of as a two part system. Working memory and long term memory.
 
 Working memory can be thought of as the one that stores memories for a short period of time. It itself is made up of 4 systems. The central executive, the phonological loop, the visuo-spatial sketchpad and the episodic buffer. The central executive controls the other system in a sense and clears out the useless parts while updating it with new information and is what allows working memory to work in harmony with long term memory. The phonological loop deals with sounds and stuff. It it's made up of two structures auditory memory and subvocal rehearsal. The auditory memory is what it says on the tin. Subvocal rehearsal is when you repeat something over and over again in your head, it's a vital piece in making sure the auditory memory doesn't decay. Visuo-spatial sketchpad is your sight and your spatial memory that's combined into one. Now you may be asking yourself why are there 2 different systems for processing memory? Researchers have found out that auditory memorization does not interfere with either visual or spatial memory. But visual memory does interfere with spatial memory and vice versa. The final piece in short term memory is the episodic buffer. It integrates the disparate memories into one single cohesive unit. It should be noted that working memory can only hold 4 pieces of information at a time.
 
-2)[Understand the Chinese characters](https://www.hackingchinese.com/phonetic-components-part-1-the-key-to-80-of-all-chinese-characters)
+2. [Understand the Chinese characters](https://www.hackingchinese.com/phonetic-components-part-1-the-key-to-80-of-all-chinese-characters)
 
 [This video is aimed at Japanese but it works for Chinese](https://www.youtube.com/watch?v=HOj4zOcNdak)
 
-3)How do I apply this to learning Chinese characters? This is the meat of the guide.
+3. How do I apply this to learning Chinese characters? This is the meat of the guide.
 
 - 1) Download Anki on your PC as well on your phone
     
@@ -47,7 +47,7 @@ Working memory can be thought of as the one that stores memories for a short per
 - 14) When you see an object whose hanzi you know then point at it and say it outloud.
     
 
-4) Motivation This is by far the most important piece in this whole puzzle. I found spreading the work load throughout the day felt the least exhausting. The idea that I only have to suffer for a month and you won't need to learn new characters again was really good and kept me going even when I wanted to quit. However I had a major advantage in that I had already internalized Chinese characters from Japanese. Your first 100 Characters will be the toughest to remember. After that it gets easier but not by much. After about 1000 characters it becomes really easy to memorize. Beginners should only learn 20 at most daily.
+4. Motivation This is by far the most important piece in this whole puzzle. I found spreading the work load throughout the day felt the least exhausting. The idea that I only have to suffer for a month and you won't need to learn new characters again was really good and kept me going even when I wanted to quit. However I had a major advantage in that I had already internalized Chinese characters from Japanese. Your first 100 Characters will be the toughest to remember. After that it gets easier but not by much. After about 1000 characters it becomes really easy to memorize. Beginners should only learn 20 at most daily.
 
 Well this about wraps it up. Looking back it looks more like a drunk rambling than an actual guide but I hope this guide will help you. Oh and skip all the grammar characters, they should be learned as part of grammar. This guide isn’t a Heisig guide, never use mnemonics they are a detriment and inferior to rote memorization.
 

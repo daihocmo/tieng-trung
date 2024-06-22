@@ -1,7 +1,14 @@
 ## Tài nguyên học​
 
-- Đặc biệt - [Trang tổng hợp tài nguyên của GratisGlobal](https://gratisglobal.com/learn-chinese-free/) - Tiếng Anh
+- [Lộ trình học Tiếng Trung thông qua tiểu thuyết](https://heavenlypath.notion.site/Comprehensive-Reading-Guide-from-Beginner-to-Native-Novels-b3d6abd583a944a397b4fbbb81e0c38c) - Được viết bởi heavenlypath
+- [Tham khảo lộ trình Tiếng Trung của cộng đồng Refold](https://docs.google.com/document/d/1GylRRx3zaY9sZbZEkKbzqVDkMAaey0pVDSC8_yCICMU/edit#heading=h.rze1k14yugtx)
+- Đặc biệt - [Trang tổng hợp tài nguyên của GratisGlobal](https://gratisglobal.com/learn-chinese-free/) - Viết bằng Tiếng Anh
 
+### Một số những lộ trình khác của người học tự viết (Tiếng Anh)​
+
+- [HSK5 trong 15 tháng](https://discuss.whatever.social/r/ChineseLanguage/comments/py5hkh/hsk_5_in_15_months_all_the_tools_tips_and)
+- [Hàng trình học Tiếng Trung 18 tháng](https://reddit.com/r/ChineseLanguage/comments/x5fu73/my_18_month_chinese_learning_journey/)
+- [Liệu bạn có thể hoàn toàn tự mình học Tiếng Trung không?](https://reddit.com/r/ChineseLanguage/comments/9q5at4/is_it_possible_to_study_chinese_by_yourself/)
 ### Ngữ pháp
 
 - [Danh sách ngữ pháp liệt kê theo Level](https://resources.allsetlearning.com/chinese/grammar/Main_Page)

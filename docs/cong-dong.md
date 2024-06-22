@@ -5,7 +5,7 @@ Những cộng đồng học Tiếng Trung trực tuyến mà bạn có thể th
 - [Chinese (all dialects)](https://discord.gg/TxBAmrt)
 - [r/ChineseLanguage](https://discord.gg/XTMaMzt)
 - [Taishanese/Sei Yap (四邑方言)](https://discord.gg/qZj8Q4d)
-- [『蘭芳共和國 | Lanfong Republic』 (Taiwan)](https://discord.gg/EHbvPR7CNw)
+- [『蘭芳共和國 - Lanfong Republic』 (Taiwan)](https://discord.gg/EHbvPR7CNw)
 
 ## Reddit
 

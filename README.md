@@ -1,3 +1,5 @@
+# Khu học mở - Tự học Tiếng Trung hoàn toàn miễn phí.
+
 ### Hướng dẫn
 - [Lộ trình học](./docs/guide.md)
 - [Cách học Hán tự](./docs/cay-han-tu.md)

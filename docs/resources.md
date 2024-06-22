@@ -44,7 +44,7 @@ Cần làm và học/ôn tập hàng ngày trên Anki bởi đấy chính là SR
 
 ### Đọc và viết
 
-- Chairman’s Bao, Decipher Chinese, & more: [Leading Mandarin Learning Resource Online | The Chairman's Bao (https://www.thechairmansbao.com/)](https://www.thechairmansbao.com/) - Đọc tin tức ngắn
+- [The Chairman's Bao](https://www.thechairmansbao.com/) - Đọc tin tức ngắn
 
 ### Giáo trình
 
@@ -74,7 +74,7 @@ Cần làm và học/ôn tập hàng ngày trên Anki bởi đấy chính là SR
 
 - [Chinese Language Institute](http://www.studycli.org/)
 - [Alexa Rankings of Most Popular Chinese Websites](http://www.alexa.com/topsites/countries/CN)
-- dig mandarin: [Your Guide To The Chinese Learning Jungle | DigMandarin (https://www.digmandarin.com/)](https://www.digmandarin.com/)
+- [Your Guide To The Chinese Learning Jungle](https://www.digmandarin.com/)
 
 ### Các mẩu truyện
 

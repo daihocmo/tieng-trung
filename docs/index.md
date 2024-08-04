@@ -1,2 +1,1 @@
-
-Bắt đầu học Tiếng Trung ngay [tại đây](guide.md)
+Đọc hướng dẫn chính tại [đây](guide.md)

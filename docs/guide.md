@@ -10,7 +10,7 @@ Gợi ý: Nếu bạn đang học Tiếng Trung mà muốn tìm một từ đi�
 
 Một phần mềm bạn nên (bắt buộc) có để học từ vựng là Anki, nó hỗ trợ SRS (Lặp lại ngắt quãng) và là ứng dụng học từ vựng và mọi thứ liên quan đến ghi nhớ tốt nhất.
 
-## Bước 1:​
+## Giai đoạn 1​
 
 Học âm và Pinyin (Latin hóa Tiếng Trung, kiểu như Zheng QiuXun chẳng hạn) trong \~ 2 đến 3 tuần
 
@@ -25,7 +25,7 @@ Học âm và Pinyin (Latin hóa Tiếng Trung, kiểu như Zheng QiuXun chẳng
 
 Nếu bạn muốn học/ôn tập bộ thủ thông qua Anki, đây là bộ thẻ trên Anki của AnkiVN: [214 Bộ Thủ (Hanzi-Pinyin-Sound-Picture-Hán Việt) – Anki Việt Nam (https://ankivn.com/bo-the/ngoai-ngu/tieng-trung/214-bo-thu-hanzi-pinyin-sound-picture-han-viet/)](https://ankivn.com/bo-the/ngoai-ngu/tieng-trung/214-bo-thu-hanzi-pinyin-sound-picture-han-viet/)
 
-## Bước 2:​
+## Giai đoạn 1​​
 
 - Học từ vựng (Gồm Hán tự và Pinyin): 5 đến 10 từ mỗi ngày trong bộ thẻ từ vựng Anki HSK1-4, khuyến khích tự làm, nếu không dùng bộ thẻ [HSK1-6](https://ankiweb.net/shared/info/698824905) này trên Anki luôn (Bấm vào để tải luôn cho Anki).
 
@@ -33,7 +33,7 @@ Nếu bạn muốn học/ôn tập bộ thủ thông qua Anki, đây là bộ th
 
 - Dành 5 → 10 phút mỗi ngày học một (hoặc nhiều) cấu trúc ngữ pháp, có thể học trên [AllSetLearning](https://resources.allsetlearning.com/chinese/grammar/Main_Page)
 
-## Bước 3:​
+## Giai đoạn 3
 
 Khi đạt đến HSK4/5, tiếp tục tiêu thụ nội dung Tiếng Trung, càng nhiều càng tốt
 
@@ -51,9 +51,8 @@ Khi đạt đến HSK4/5, tiếp tục tiêu thụ nội dung Tiếng Trung, cà
 
 Một điều quan trọng nữa, làm thẻ cho các từ bạn cần trên Anki, ném vào trong Anki và nó sẽ tự lên lịch cho bạn ôn tập. Mặc dù nếu bạn đắm chìm vào Media liên tục và gặp thường xuyên thì bạn cũng sẽ bắt đầu nhớ được
 
-## Bước 4 + 5 + 6:​
+## Giai đoạn 4
 
 Tiếp tục tiêu thụ thật nhiều nội dung. Cho đến khi bạn có thể hiểu các cuộc hội thoại hàng ngày, tắt Sub. Rồi bắt đầu chuyển sang Audio vậy cho đến khi thành thạo và có thể nghe hiểu. Tiếp tục đắm mình vào ngôn ngữVề cơ bản thì bước này sẽ chẳng bao giờ kết thúc, bởi sẽ không có một điểm kết thúc nào là “Tôi đã học xong Tiếng Trung” hoặc kiểu vậy. Nhưng chắc chắn càng tiêu thụ nội dung Tiếng Trung thì bạn sẽ càng trở lên thành thục và có thể sẽ đạt đến ngưỡng “Bản ngữ”
-
 
 

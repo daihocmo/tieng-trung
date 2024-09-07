@@ -49,6 +49,7 @@ theme:
     - search.highlighting
     - search.share
     - search.suggest
+  favicon: assets/favicon.png
   name: material
 
 

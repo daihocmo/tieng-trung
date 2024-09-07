@@ -1,23 +1,26 @@
-site_name: Tôi luyện Tiếng Trung - Khu học mở
-site_description: Học Tiếng Trung thông qua Comprehensible Input và Immersion. Hoàn toàn miễn phí.
-site_author: onlyduyy  
-theme:
-  name: material
-  features:
-    - navigation.sections
-  palette:
-    primary: indigo
+site_name: Tự luyện Tiếng Trung - Khu học mở
+site_description: Tự học Tiếng Trung
+site_author: duykhanh471  
 
 nav:
-  - Home: 'index.md'
+  - 'Trang chủ': 
+    - 'Trang chủ': 'index.md'
   - 'Hướng dẫn':
-    - 'Lộ trình': 'guide.md'
-  - 'Tổng hợp':
+    - 'Chung': 'guide.md'
+    - 'Hán tự': 'han-tu.md'
+    - 'Nói Tiếng Trung': 'noi-tieng-trung.md'
+    - 'Đọc Tiếng Trung': 'doc-tieng-trung.md'
+  - 'Setup':
+    - 'Setup học': 'setup.md'
+  - 'Immersion':
+    - 'Sentence Mining': 'sent-mining.md'
+    - ''
+  - 'Tài nguyên học':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
-  - 'Nội dung':
+  - 'Đề xuất':
     - 'Youtube': 'youtube.md'
-    - 'Podcasts': 'podcasts.md'
+    - 'Podcast': 'podcasts.md'
     - 'Sách': 'sach.md'
       
 theme:
@@ -40,14 +43,17 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.instant
+    - navigation.tabs
     - navigation.sections
-    - search.suggest
+    - toc.follow
     - search.highlighting
     - search.share
+    - search.suggest
   name: material
 
+
 plugins:
+  - search
   - open-in-new-tab
   
 extra:

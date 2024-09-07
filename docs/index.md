@@ -1,1 +1,1 @@
-Đọc hướng dẫn chính tại [đây](guide.md)
+Đây là một trang tổng hợp tự học Tiếng Trung thông qua Comprehensible Input và Immersion.

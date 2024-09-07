@@ -1,5 +1,3 @@
-
-
 Một lộ trình tự học Tiếng Trung, nhặt từ [bài này](https://www.reddit.com/r/ChineseLanguage/comments/152jstv/free_resourceslanguage_learning_plan_to_start/) và nhặt thêm từ rất nhiều nguồn khác
 
 Hướng dẫn Tiếng Trung tương tự trên Forum: [kiến thức - 中文 怎麼學中文呢? (How to Chinese)](https://voz.vn/t/how-to-chinese.110882/)
@@ -25,7 +23,7 @@ Học âm và Pinyin (Latin hóa Tiếng Trung, kiểu như Zheng QiuXun chẳng
 
 Nếu bạn muốn học/ôn tập bộ thủ thông qua Anki, đây là bộ thẻ trên Anki của AnkiVN: [214 Bộ Thủ (Hanzi-Pinyin-Sound-Picture-Hán Việt) – Anki Việt Nam (https://ankivn.com/bo-the/ngoai-ngu/tieng-trung/214-bo-thu-hanzi-pinyin-sound-picture-han-viet/)](https://ankivn.com/bo-the/ngoai-ngu/tieng-trung/214-bo-thu-hanzi-pinyin-sound-picture-han-viet/)
 
-## Giai đoạn 1​​
+## Giai đoạn 2
 
 - Học từ vựng (Gồm Hán tự và Pinyin): 5 đến 10 từ mỗi ngày trong bộ thẻ từ vựng Anki HSK1-4, khuyến khích tự làm, nếu không dùng bộ thẻ [HSK1-6](https://ankiweb.net/shared/info/698824905) này trên Anki luôn (Bấm vào để tải luôn cho Anki).
 
@@ -44,6 +42,7 @@ Khi đạt đến HSK4/5, tiếp tục tiêu thụ nội dung Tiếng Trung, cà
 - Một gợi ý tốt hơn nhiều là dùng [Yomitan](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn),tải từ điển cho Yomitan (Tiếng Trung) [tại đây](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#mandarin-chinese)
 
 **Xem nội dung trên Youtube**
+
 - Xem Youtube (Có Sub càng tốt, Softsub thì càng tốt để tiện tra từ, [sử dụng asbplayer để hỗ trợ](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab)). 
 - Hướng dẫn sử dụng asbplayer có thể đọc tại đây: [Hướng dẫn đào câu trên Netflix bằng asbplayer](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit)
 

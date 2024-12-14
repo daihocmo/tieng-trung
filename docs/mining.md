@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 ## Đào câu
 
 Hãy tìm những từ mà bạn thấy thú vị (mà bạn sẽ muốn học) hoặc hữu ích, tra trong [Baidu Translate](https://fanyi.baidu.com/) (Hoặc tùy chỗ bạn muốn) để có một câu ví dụ mà bạn có thể hiểu được hoặc hiểu gần hết cả câu và là câu mà bạn có thể ghi nhớ được.

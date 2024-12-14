@@ -1,15 +1,16 @@
 site_name: Tự luyện Tiếng Trung
 site_description: Tự học Tiếng Trung thông qua các nguồn tài nguyên miễn phí trên Internet
 site_author: duykhanh471  
+repo_url: https://github.com/daihocmo/tieng-trung
+repo_name: Tự luyện Tiếng Trung
 
 nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn': 'guide.md'
   - 'Setup': 'setup.md'
   - 'Mining': 'mining.md'
-  - 'Tài nguyên học':
-    - 'Tài nguyên': 'resources.md'
-    - 'Cộng đồng': 'cong-dong.md'
+  - 'Tài nguyên học': 'resources.md'
+  - 'Cộng đồng': 'cong-dong.md'
   - 'Gợi ý & Đề xuất': 'recommendations.md'
       
 theme:
@@ -39,7 +40,12 @@ theme:
     - search.share
     - search.suggest
   favicon: assets/favicon.png
+  icon:
+    repo: fontawesome/brands/github
   name: material
+  custom_dir: overrides
+  language: vi
+
 
 markdown_extensions:
   - pymdownx.emoji:
@@ -63,7 +69,7 @@ markdown_extensions:
 
 plugins:
   - search
-  - open-in-new-tab
-  
+  # - open-in-new-tab
+
 extra:
   generator: false

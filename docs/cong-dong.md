@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 Tổng hợp một số cộng đồng học Tiếng Trung
 
 ## Discord

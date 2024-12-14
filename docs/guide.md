@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Một lộ trình tự học Tiếng Trung.
 
 > Mô tả: như tên gọi
@@ -25,16 +30,16 @@ Trong lộ trình này, phần bạn sẽ dành nhiều thời gian nhất chín
 Ở mỗi giai đoạn, mình sẽ giải thích tương đối về những nhiệm vụ mà bạn cần thực hiện. Phần hướng dẫn này sẽ tương đối ngắn và chỉ bao gồm những phần chính trong quá trình học Tiếng Trung thông qua Immersion. Nếu bạn cảm thấy chưa đủ và muốn đọc thêm để hiểu hơn về phương pháp học Tiếng Trung, bạn có thể đọc thêm các bài viết trên trang hoặc ghé trang [Hướng dẫn đề xuất](recommendations.md) để đọc thêm các hướng dẫn tương tự được viết bằng Tiếng Anh (Chắc chắn tốt hơn phần mình viết hoặc dịch lại nên nếu bạn có thể đọc Tiếng Anh đừng ngại qua đọc thêm nha). 
 
 
-## Giai đoạn 1​
+### Giai đoạn 1​
 
 > Nhiệm vụ: Học bảng phiên âm Pinyin và bộ thủ 
 
-### Pinyin
+#### Pinyin
 Để bắt đầu học Tiếng Trung thì mọi người cần học bảng phiên âm (Bính Âm -- Pinyin) của nó (Pinyin: Latin hóa Tiếng Trung, kiểu như Zheng QiuXun chẳng hạn). Nhiều nơi gọi đây là bảng chữ cái, nhưng cách gọi này sai hoàn toàn. Tiếng Trung không có bảng chữ cái mà chỉ có bảng phiên âm mà thôi.
 
 Học nhanh về Pinyin trong gần 30 phút, có phụ đề Tiếng Việt, xem [tại đây](https://www.youtube.com/watch?v=XbZ8qqNi_sQ) (Phần hướng dẫn đặt lưỡi hay phát âm ở bên dưới có thể bỏ qua và chỉ nghe và học thuộc là được).
 
-### Thanh điệu
+#### Thanh điệu
 Tiếng Trung có 4 thanh điệu chính và 1 thanh nhẹ (không dấu), mỗi thanh có cách phát âm riêng. Âm tiết giống nhau nhưng mang thanh điệu khác nhau sẽ có ý nghĩa hoàn toàn khác. Do đó bạn cần ghi nhớ thanh điệu để biết cách đọc từ vựng sao cho đúng. Ví dụ:
 
 -   **Thanh 1 (高平调 - Cao bình điệu)**: Âm cao, kéo dài (mā -- mẹ).
@@ -46,7 +51,7 @@ Tiếng Trung có 4 thanh điệu chính và 1 thanh nhẹ (không dấu), mỗi
 
 Bạn có thể xem video [4 thanh điệu - phát âm Tiếng Trung](https://www.youtube.com/watch?v=xUiCa25MsJ0) để nghe và học theo.
 
-### Bộ thủ
+#### Bộ thủ
 Một phần nữa là học bộ thủ. Bộ thủ tiếng Trung - 部首 /Bù shǒu/ là phần cơ bản cấu tạo nên chữ Hán và cả chữ Nôm. Một chữ Hán có thể được cấu tạo bởi một hoặc nhiều bộ thủ ghép lại. Hiểu đơn giản hơn, mỗi chữ Hán sẽ có một hoặc nhiều bộ phận tạo thành, mỗi bộ phận đó chính là bộ thủ.Trong nhiều chữ Hán, từ 214 bộ thủ, ta có thể suy đoán được sơ lược về ý nghĩa của từ và cả cách đọc chữ đó. Vì vậy, việc học bộ thủ cực kỳ quan trọng đối với người học.
 
 Bạn hãy học qua [214 bộ thủ Tiếng Trung](https://prepedu.com/vi/blog/214-bo-thu-tieng-trung) thông qua trang đã được để đường dẫn (hoặc bất cứ chỗ nào bạn thích) rồi tải bộ thẻ Anki: [214 Bộ Thủ](https://ankivn.com/bo-the/ngoai-ngu/tieng-trung/214-bo-thu-hanzi-pinyin-sound-picture-han-viet/) và thêm vào Anki để ôn tập.
@@ -128,9 +133,10 @@ Làm bất kì điều gì bạn muốn. Thi chứng chỉ Tiếng Trung thử x
 
 ### Danh sách nhiệm vụ
 
-Những thứ bạn cần làm
-1.  Học bảng chữ cái
-2.  Hoàn thành bộ thẻ từ vựng cơ bản và một hướng dẫn ngữ pháp bất kì
+Những thứ bạn cần làm:
+
+1.  Học Pinyin và bộ thủ
+2.  Hoàn thành bộ thẻ từ vựng cơ bản và một hướng dẫn ngữ pháp
 3.  Cài đặt các công cụ cần thiết, xây dựng môi trường học Tiếng Trung.
 4. Tạo một bộ thẻ mining sau khi hoàn thành bộ thẻ từ vựng cơ bản
 5. Nạp thêm thật nhiều Input

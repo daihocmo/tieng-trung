@@ -1,27 +1,16 @@
-site_name: Tự luyện Tiếng Trung - Khu học mở
-site_description: Tự học Tiếng Trung
+site_name: Tự luyện Tiếng Trung
+site_description: Tự học Tiếng Trung thông qua các nguồn tài nguyên miễn phí trên Internet
 site_author: duykhanh471  
 
 nav:
-  - 'Trang chủ': 
-    - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn':
-    - 'Chung': 'guide.md'
-    - 'Hán tự': 'han-tu.md'
-    - 'Nói Tiếng Trung': 'noi-tieng-trung.md'
-    - 'Đọc Tiếng Trung': 'doc-tieng-trung.md'
-  - 'Setup':
-    - 'Setup học': 'setup.md'
-  - 'Immersion':
-    - 'Sentence Mining': 'sent-mining.md'
-    - ''
+  - 'Trang chủ': 'index.md'
+  - 'Hướng dẫn': 'guide.md'
+  - 'Setup': 'setup.md'
+  - 'Mining': 'mining.md'
   - 'Tài nguyên học':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
-  - 'Đề xuất':
-    - 'Youtube': 'youtube.md'
-    - 'Podcast': 'podcasts.md'
-    - 'Sách': 'sach.md'
+  - 'Gợi ý & Đề xuất': 'recommendations.md'
       
 theme:
   palette:
@@ -52,6 +41,25 @@ theme:
   favicon: assets/favicon.png
   name: material
 
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      
 
 plugins:
   - search

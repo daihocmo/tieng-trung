@@ -1,1 +1,3 @@
-Đây là một trang tổng hợp tự học Tiếng Trung thông qua Comprehensible Input và Immersion.
+Một hướng dẫn xàm l về tự học Tiếng Trung.
+
+[:fontawesome-solid-book-open: Đọc hướng dẫn ](guide.md){: .md-button .md-button--primary }  

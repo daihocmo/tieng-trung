@@ -1,7 +1,3 @@
----
-hide:
-  - navigation
----
 
 # Tổng hợp rất nhiều tài nguyên tự học Tiếng Trung
 
@@ -72,7 +68,7 @@ hide:
 #### Yomitan
 Yomitan, tiện ích trình duyệt giúp tra từ vựng ngay trên trình duyệt.
 
--   [Tải Yomichan](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) - Cần có.
+-   [Tải Yomitan](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) - Cần có.
 -   [Hướng dẫn cài đặt](https://daihocmo.github.io/tieng-anh/yomitan/)
 
 #### Trực tuyến

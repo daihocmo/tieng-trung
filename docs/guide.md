@@ -1,11 +1,5 @@
----
-hide:
-  - navigation
----
 
 # Một lộ trình tự học Tiếng Trung.
-
-> Mô tả: như tên gọi
 
 ## Chuẩn bị học
 ### Cần dành bao nhiêu thời gian

@@ -1,8 +1,4 @@
----
-hide:
-  - navigation
-  - toc
----
+# Gợi ý
 
 Bạn có thể tìm thêm gợi ý nội dung để tiêu thụ trên trang [Tổng hợp nội dung Tiếng Trung](https://daihocmo.github.io/awesome-ngon-ngu/ngon-ngu/tieng-trung/input.html) 
 

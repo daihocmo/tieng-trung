@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # Hướng dẫn thiết lập môi trường học Tiếng Trung
 Đây là một hướng dẫn nhanh cách cài đặt một số phần mềm để hỗ trợ cho việc tiêu thụ nội dung Tiếng Trung và học từ đó.
 
@@ -17,7 +12,7 @@ Về từ điển, những ứng dụng ở đây đều đạt chỉ tiêu:
 2. Hoạt động ngoại tuyến: Bạn không cần kết nối mạng để sử dụng, và nó cũng rất gọn nữa
 
 ### Những lựa chọn
-- Yomitan (Bản kế tiếp từ Yomichan, là một tiện ích trình duyệt Chrome & Firefox để dùng từ điển pop-up bằng cách giữ phím Shift và di chuột vào từ). Mình gợi ý Yomitan vì nó giúp tạo thẻ Anki và dùng trên trình duyệt.
+- Yomitan (Bản kế tiếp từ Yomitan, là một tiện ích trình duyệt Chrome & Firefox để dùng từ điển pop-up bằng cách giữ phím Shift và di chuột vào từ). Mình gợi ý Yomitan vì nó giúp tạo thẻ Anki và dùng trên trình duyệt.
 - Goldendict - Một ứng dụng có tuổi đời khá cũ nhưng hỗ trợ rất nhiều định dạng từ điển nên kho từ điển cho Goldendict gần như là vô tận.
 
 Bạn hãy quay lại đọc [các bài hướng dẫn cài đặt](guide.md) được liệt kê ở hướng dẫn tự học và cài đặt xong các công cụ cần thiết trước khi tiếp tục

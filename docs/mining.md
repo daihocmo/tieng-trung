@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
 
 ## Đào câu
 

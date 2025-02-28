@@ -1,4 +1,4 @@
-# Hướng dẫn thiết lập môi trường học Tiếng Trung
+# Tự tạo môi trường học Tiếng Trung
 Đây là một hướng dẫn nhanh cách cài đặt một số phần mềm để hỗ trợ cho việc tiêu thụ nội dung Tiếng Trung và học từ đó.
 
 ## Từ điển

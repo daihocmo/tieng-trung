@@ -1,24 +1,30 @@
-site_name: Tự luyện Tiếng Trung
+site_name: Tiếng Trung - Khu học mở
 site_description: Tự học Tiếng Trung thông qua các nguồn tài nguyên miễn phí trên Internet
-site_author: duykhanh471  
+site_author: khuhocmo  
 repo_url: https://github.com/daihocmo/tieng-trung
-repo_name: Tự luyện Tiếng Trung
+repo_name: Đóng góp & chỉnh sửa trang
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 'guide.md'
-  - 'Setup': 'setup.md'
-  - 'Mining': 'mining.md'
-  - 'Tài nguyên học': 'resources.md'
-  - 'Cộng đồng': 'cong-dong.md'
-  - 'Gợi ý & Đề xuất': 'recommendations.md'
+  - 'Hướng dẫn': 
+    - 'guide.md'
+    - 'hanzi.md'
+  - 'Cài đặt': 
+    - 'setup.md'
+  - 'Mining': 
+    - 'mining.md'
+  - 'Tài nguyên & Cộng đồng': 
+    - 'resources.md'
+    - 'cong-dong.md'
+  - 'Gợi ý & Đề xuất': 
+    - 'recommendations.md'
       
 theme:
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: white
       accent: grey
       toggle:
         icon: material/brightness-7
@@ -33,18 +39,36 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.tabs
     - navigation.sections
     - toc.follow
     - search.highlighting
     - search.share
     - search.suggest
-  favicon: assets/favicon.png
+  favicon: assets/logo.svg
+  logo: assets/logo.svg
   icon:
     repo: fontawesome/brands/github
   name: material
   language: vi
 
+
+markdown_extensions:
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      
+      
 plugins:
   - search
   - open-in-new-tab

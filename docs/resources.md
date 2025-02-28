@@ -1,5 +1,4 @@
-
-# Tổng hợp rất nhiều tài nguyên tự học Tiếng Trung
+# Tài nguyên tự học Tiếng Trung
 
 ## Học Tiếng Trung
 ### Bảng phiên âm & bộ thủ

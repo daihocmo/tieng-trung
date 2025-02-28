@@ -1,5 +1,4 @@
-
-# Một lộ trình tự học Tiếng Trung.
+# Hướng dẫn tự học Tiếng Trung
 
 ## Chuẩn bị học
 ### Cần dành bao nhiêu thời gian

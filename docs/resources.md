@@ -1,4 +1,4 @@
-# Tài nguyên tự học Tiếng Trung
+# Tài nguyên học
 
 ## Học Tiếng Trung
 ### Bảng phiên âm & bộ thủ
@@ -54,14 +54,6 @@
 ### Condensed Audio
 - [CONDENSED AUDIO CATALOG](https://condensedaudiocatalog.com/#) 
 
-### Mining
--   [※ AnimeCards](https://animecards.site/) - Animecards are very good for making sure you remember the words you learn from your immersion. Other options here are heavily inspired by it.
--   [Audio cards on Mac](https://sites.google.com/view/mac-audiocards) - Based on an older method of AnimeCards but shows you how to get the setup working on a Mac.
--   **[Anime cards in under 10 seconds with MPV script](https://youtu.be/M4t7HYS73ZQ)**
--   [stegatxins0's super fast mining guide](https://rentry.co/mining)
--   [Xelieu's lazy Anki guide](https://xelieu.github.io/jp-lazy-guide/)
--   [Aquafina's Advanced Anki Template (Now maintained by Arbyste)](https://arbyste.github.io/jp-mining-note/)
-
 ### Từ điển
 
 #### Yomitan
@@ -98,17 +90,10 @@ Yomitan, tiện ích trình duyệt giúp tra từ vựng ngay trên trình duy�
 
 ### Hướng dẫn và phương pháp khác
 
--   [All Japanese All The Time](https://learnjapanese.link/ajatt) - The reason why All Japanese All The Time, often abbreviated to AJATT, is still popular to this day, is because of the mindset building that it was able to achieve. The articles on that site can get you in the Japanese immersion spirit better than I or any other guide can.
--   [AntiMoon](http://www.antimoon.com/) - AntiMoon is a site made for English learners. It promotes learning through large amounts of input, also known as immersion. It has good articles on some of the practical methods used in immersion.
--   [Donkuri Guide](https://donkuri.github.io/learn-japanese/)
--   [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and netflix mining guide with asbplayer (also works with zoro.to and amazon prime video)
 - [Lộ trình Tiếng Trung của cộng đồng Refold](https://docs.google.com/document/d/1GylRRx3zaY9sZbZEkKbzqVDkMAaey0pVDSC8_yCICMU/edit#heading=h.rze1k14yugtx)
 
 
 ### "Other"
-
--   [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more.
--   [Dogen Japanese Phonetics](https://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.
 - [Chinese Language Institute](http://www.studycli.org/)
 - [Alexa Rankings of Most Popular Chinese Websites](http://www.alexa.com/topsites/countries/CN)
 - [Your Guide To The Chinese Learning Jungle](https://www.digmandarin.com/)

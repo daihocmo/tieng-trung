@@ -6,19 +6,14 @@ repo_name: Đóng góp & chỉnh sửa trang
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 
-    - 'guide.md'
-    - 'hanzi.md'
-  - 'Cài đặt': 
-    - 'setup.md'
-  - 'Mining': 
-    - 'mining.md'
-  - 'Tài nguyên & Cộng đồng': 
+  - 'Hướng dẫn': 'guide.md'
+  - 'Cài đặt': 'setup.md'
+  - 'Mining': 'mining.md'
+  - 'Tài nguyên': 
     - 'resources.md'
     - 'cong-dong.md'
-  - 'Gợi ý & Đề xuất': 
     - 'recommendations.md'
-      
+
 theme:
   palette:
     # Palette toggle for light mode

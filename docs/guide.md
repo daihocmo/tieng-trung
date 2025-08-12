@@ -59,8 +59,8 @@ Hướng dẫn cài đặt cho từng phần một:
 
 - [Hướng dẫn cài đặt và sử dụng Anki cơ bản](https://daihocmo.github.io/ngoai-ngu/anki/)
 - Hướng dẫn cài đặt từ điển: 
-    - [Yomitan](https://daihocmo.github.io/tieng-anh/yomitan/)
-    - [Goldendict](https://daihocmo.github.io/tieng-anh/goldendict/)
+    - [Yomitan](https://daihocmo.github.io/ngoai-ngu/yomitan/)
+    - [Goldendict](https://daihocmo.github.io/ngoai-ngu/goldendict/)
     - [HanViet: Từ Điển Hán Việt](https://chromewebstore.google.com/detail/hanviet-t%E1%BB%AB-%C4%91i%E1%BB%83n-h%C3%A1n-vi%E1%BB%87t/gilnapfdconbpkkigjdedkcilaalfnjb?hl=vi) (Nếu mọi người không muốn sử dụng Yomitan thì có thể sử dụng tiện ích trình duyệt này).
 - [Hướng dẫn setup cho việc học Tiếng Trung](setup.md) - Sau khi bạn cài xong Anki, Goldendict và Yomitan ở trên thì hãy đọc hướng dẫn cài đặt này để hướng dẫn tận dụng các phần mềm đã được cài đặt ở trên. 
 
@@ -88,7 +88,6 @@ Bước đầu tiên sẽ giúp bạn chuẩn bị hành trang để ~~bước v
 
 Về việc học và ôn tập từ vựng, mình gợi ý sử dụng bộ thẻ [HSK1-6 Vietnamese](https://ankiweb.net/shared/info/698824905). Nếu bạn biết Tiếng Anh thì có thể sử dụng bộ thẻ [HSK 1-6](https://old.reddit.com/r/ChineseLanguage/comments/7mjmjc/best_anki_deck_for_hsk_ive_come_across/)
 
-
 !!! info "Xem để học"
     Có thể bạn sẽ bất ngờ khi đọc điều này nhưng bạn không nên chờ đợi đến khi nào học giỏi đến một trình độ nào đấy để bắt đầu nghe Tiếng Trung, xem phim Trung hay đọc truyện Tiếng Trung mà bạn yêu thích. Bạn có thể bắt đầu ngay trong lúc mình đang học ngữ pháp và từ vựng. Điều đó càng giúp bạn yêu Tiếng Trung và có thêm động lực học. 
 
@@ -112,7 +111,7 @@ Nếu bạn không ngại đọc định nghĩa ở ngôn ngữ mục tiêu củ
 
 ### Output nhiều hơn nữa
 
-Một khi bạn có mức hiểu tương đối tốt về Tiếng Trung và có thể đọc một cách dễ dàng hơn, đã đến lúc tập speaking với người bản ngữ thường xuyên hơn rồi. Điều này cũng tương tự cho việc tập viết (Không nhất thiết phải viết trên giấy) và có người sửa sai cho bạn. Điều này không có nghĩa là bạn không thể output từ sớm. Nếu bạn có cơ hội output từ sớm, bắt đầu luôn cũng không vấn đề gì, nhưng nhớ là [cần phải Immersion song song](http://learnjapanese.moe/speaking/). **Chỉ giỏi đọc là chưa đủ để giỏi viết**, và điều này cũng tương tự với việc nói, **chỉ giỏi nghe là chưa đủ để giỏi nói**. Tuy chưa đủ nhưng chúng là điều kiện cần để bạn có thể giỏi Output, bản thân Output (Nói, Viết) không phải là cách học Tiếng Trung mà Input (Nghe, Đọc) mới chính là học Tiếng Trung. Về phần này bạn có thể đọc câu trả lời cho câu hỏi [Is it bad if I make a mistake when speaking?](http://learnjapanese.moe/faq/#is-it-bad-if-i-make-a-mistake-when-speaking) và bài viết [Nói Tiếng Anh](https://daihocmo.github.io/tieng-anh/speaking/)
+Một khi bạn có mức hiểu tương đối tốt về Tiếng Trung và có thể đọc một cách dễ dàng hơn, đã đến lúc tập speaking với người bản ngữ thường xuyên hơn rồi. Điều này cũng tương tự cho việc tập viết (Không nhất thiết phải viết trên giấy) và có người sửa sai cho bạn. Điều này không có nghĩa là bạn không thể output từ sớm. Nếu bạn có cơ hội output từ sớm, bắt đầu luôn cũng không vấn đề gì, nhưng nhớ là [cần phải Immersion song song](http://learnjapanese.moe/speaking/). **Chỉ giỏi đọc là chưa đủ để giỏi viết**, và điều này cũng tương tự với việc nói, **chỉ giỏi nghe là chưa đủ để giỏi nói**. Tuy chưa đủ nhưng chúng là điều kiện cần để bạn có thể giỏi Output, bản thân Output (Nói, Viết) không phải là cách học Tiếng Trung mà Input (Nghe, Đọc) mới chính là học Tiếng Trung. Về phần này bạn có thể đọc câu trả lời cho câu hỏi [Is it bad if I make a mistake when speaking?](http://learnjapanese.moe/faq/#is-it-bad-if-i-make-a-mistake-when-speaking) và bài viết [Nói Tiếng Anh](https://daihocmo.github.io/ngoai-ngu/speaking/)
 
 Có khá nhiều nền tảng có thể giúp bạn tìm được người Trung để bắt chuyện chém gió. Nếu bạn đã học được Tiếng Trung được đến giai đoạn này thì hãy thử sức giao tiếp với người Trung xem.
 

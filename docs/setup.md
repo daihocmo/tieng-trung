@@ -1,4 +1,5 @@
-# Tự tạo môi trường học Tiếng Trung
+# Thiết lập
+
 Đây là một hướng dẫn nhanh cách cài đặt một số phần mềm để hỗ trợ cho việc tiêu thụ nội dung Tiếng Trung và học từ đó.
 
 ## Từ điển
@@ -56,12 +57,6 @@ Nó sẽ trông như thế này trong phần cài đặt của Yomitan
 ![alt text](assets/anki-template.png)
 
 Khi bạn tra từ và bấm vào dấu `+` màu xanh lá cây thì nó sẽ tạo thẻ tự động trong Anki và bạn cần bật Anki khi sử dụng Yomitan để tạo thẻ (Nếu bạn chỉ tra từ mà không tạo thẻ thì không cần bật Anki nha).
-
-Đây là một ví dụ mẫu thẻ trên Anki.
-
-![alt text](assets/front-anki.png)
-
-![alt text](assets/back-anki.png)
 
 ### Asbplayer
 

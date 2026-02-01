@@ -5,6 +5,7 @@
 ## Từ điển
 
 ### Về việc sử dụng ứng dụng từ điển
+
 Từ điển là một phần rất quan trọng cần có trong quá trình học ngoại ngữ.
 
 Về từ điển, những ứng dụng ở đây đều đạt chỉ tiêu:
@@ -13,31 +14,33 @@ Về từ điển, những ứng dụng ở đây đều đạt chỉ tiêu:
 2. Hoạt động ngoại tuyến: Bạn không cần kết nối mạng để sử dụng, và nó cũng rất gọn nữa
 
 ### Những lựa chọn
-- Yomitan (Bản kế tiếp từ Yomitan, là một tiện ích trình duyệt Chrome & Firefox để dùng từ điển pop-up bằng cách giữ phím Shift và di chuột vào từ). Mình gợi ý Yomitan vì nó giúp tạo thẻ Anki và dùng trên trình duyệt.
+
+- Yomitan - Một tiện ích trình duyệt Chrome & Firefox để dùng từ điển pop-up bằng cách giữ phím Shift và di chuột vào từ. Mình gợi ý Yomitan vì nó giúp tạo thẻ Anki và dùng trên trình duyệt.
 - Goldendict - Một ứng dụng có tuổi đời khá cũ nhưng hỗ trợ rất nhiều định dạng từ điển nên kho từ điển cho Goldendict gần như là vô tận.
 
-Bạn hãy quay lại đọc [các bài hướng dẫn cài đặt](guide.md) được liệt kê ở hướng dẫn tự học và cài đặt xong các công cụ cần thiết trước khi tiếp tục
-
 ### Chọn từ điển
+
 #### Yomitan
+
 [Kho từ điển Tiếng Trung cho Yomitan](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#mandarin-chinese) để tải, trong kho này sẽ có từ điển Tiếng Trung - Tiếng Anh và từ điển đơn ngữ.
 
 #### Goldendict
 
-[Kho từ điển Trung-Việt trên Freemdict](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FCHINESE%2FChi-Vie). Có một kho rất lớn các từ điển bạn có thể tải. 
+[Kho từ điển Trung-Việt trên Freemdict](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FCHINESE%2FChi-Vie). Có một kho rất lớn các từ điển bạn có thể tải.
 
 [Trang Backup](ttps://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs)
 
 ## Các phần mềm và tiện ích hỗ trợ khác
 
 ### Anki
-Đọc [hướng dẫn cài đặt và sử dụng Anki cơ bản](https://daihocmo.github.io/ngoai-ngu/anki/) 
+
+Đọc [hướng dẫn cài đặt và sử dụng Anki cơ bản](https://daihocmo.github.io/ngoai-ngu/anki/)
 
 Sau đó, hãy [tải bộ thẻ mẫu bằng cách bấm vào đường dẫn này](assets/template-deck.apkg) rồi **Import** và trong Anki. Mẫu thẻ này làm cho Tiếng Anh nhưng Tiếng Trung dùng cũng được
 
 Giờ chuyển sang Yomitan, sau khi đã cài đặt AnkiConnect như ở trên thì hãy di chuyển đến mục **Anki** trong cài đặt của Yomitan. Cần mở ứng dụng Anki khi bạn sử dụng Yomitan để tạo thẻ. Nếu bạn thành công thì sẽ có dòng **Connection Status: Connected** ở dưới dòng **Enable Anki Integration**.
 
-![alt text](assets/enable-anki.png)
+![alt text](img/enable-anki.png)
 
 Sau đó, hãy mở **Config Anki card format...**.
 
@@ -45,16 +48,16 @@ Về phần **Deck** và **Model** thì bạn hãy chọn **Model** là **Englis
 
 Tiếp theo, hãy sao chép những cài đặt sau vào mẫu thẻ (Nếu bạn sử dụng bộ thẻ mẫu mình đã để ở trên):
 
-| Field | Value |
-| --- | --- |
-| `Word` | `{expression}` |
+| Field      | Value                                             |
+| ---------- | ------------------------------------------------- |
+| `Word`     | `{expression}`                                    |
 | `Sentence` | `{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}` |
-| `Meaning` | `{glossary-first-brief}` |
-| `Audio` | `{Audio}` |
+| `Meaning`  | `{glossary-first-brief}`                          |
+| `Audio`    | `{Audio}`                                         |
 
 Nó sẽ trông như thế này trong phần cài đặt của Yomitan
 
-![alt text](assets/anki-template.png)
+![alt text](img/anki-template.png)
 
 Khi bạn tra từ và bấm vào dấu `+` màu xanh lá cây thì nó sẽ tạo thẻ tự động trong Anki và bạn cần bật Anki khi sử dụng Yomitan để tạo thẻ (Nếu bạn chỉ tra từ mà không tạo thẻ thì không cần bật Anki nha).
 

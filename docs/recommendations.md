@@ -360,3 +360,147 @@
 - [Jiong3 Graded Watching](http://www.jiong3.com/gradedwatching/): Xếp phim theo độ khó.
 - [100 phim Hoa ngữ hay nhất – Hong Kong Film Awards](https://letterboxd.com/zapperlife/list/the-best-100-chinese-motion-pictures/detail/)
 - [100 phim Hoa ngữ vĩ đại nhất – Kim Mã](https://letterboxd.com/zapperlife/list/golden-horses-100-greatest-chinese-language/detail/)
+
+## Khác
+
+### Audio rút gọn (Condensed Audio)
+
+- [Condensed Audio Catalog](https://condensedaudiocatalog.com/)
+
+## Podcast (bao gồm Radio)
+
+### Nền tảng
+
+- [Ximalaya](https://www.ximalaya.com/): Website và ứng dụng với số lượng podcast rất lớn.
+- [Getpodcast.xyz](https://getpodcast.xyz/): Cung cấp RSS không chính thức cho một số podcast trên Ximalaya.
+- [Apple](https://podcasts.apple.com/us/genre/podcasts/id26): Một trong những nền tảng podcast lớn.
+- [Spotify](https://open.spotify.com/genre/podcasts-page): Một trong những nền tảng podcast lớn.
+- [小宇宙](https://www.xiaoyuzhoufm.com/): Ứng dụng podcast tối giản, rất phổ biến ở Trung Quốc đại lục, có trên iOS và Android, kèm gợi ý chọn lọc hằng ngày.
+- [SoundOn 聲浪](https://www.soundon.fm/): Nền tảng/ứng dụng podcast phổ biến tại Đài Loan, có trên iOS, Android và web.
+- [蜻蜓 FM](https://www.qingting.fm/): Nền tảng podcast, sách nói và radio (có phát lại).
+- [Google](https://podcasts.google.com/)
+- [Pocket Casts](https://www.pocketcasts.com/): Ứng dụng podcast đa nền tảng rất tốt.
+
+### Danh sách khác
+
+- [中文独立播客](https://typlog.com/podlist/)
+- [China Podcasts Starter Pack](https://open.spotify.com/playlist/5iyNCZjZC70ADGypm6B5IN)
+
+### Radio
+
+- [中国之声](http://china.cnr.cn/)
+- Cũng có trên Ximalaya
+- [经济之声](http://finance.cnr.cn/finance/)
+- Cũng có trên Ximalaya
+- [RTI 電台](http://radio.garden/listen/radio-taiwan-international/GP4wHMvv)
+
+## Đọc bài viết
+
+(bao gồm Blog/Bài viết, Tạp chí & Tin tức)
+
+### Nền tảng blog & website / mạng xã hội
+
+- [微信 (WeChat)](https://www.wechat.com/en/): Ứng dụng nhắn tin chính ở Trung Quốc đại lục, có tính năng Tài khoản Công khai (Public Accounts) để xem tin tức và bài viết.
+- [WEMP](https://wemp.app/): Xem tài khoản công khai WeChat và bài viết ngay trên trình duyệt, không cần mở app WeChat.
+- [搜狗微信](https://weixin.sogou.com/): Công cụ tìm kiếm bài viết WeChat của Sogou.
+- [PTT](https://www.pttweb.cc/): Diễn đàn tại Đài Loan, tương tự Reddit. Một số bài có thể NSFW.
+- [Trình duyệt thay thế](https://moptt.tw/)
+- [Trang gốc](https://www.ptt.cc/bbs/index.html)
+- [Dcard](https://www.dcard.tw/f): Mạng xã hội phổ biến trong sinh viên Đài Loan, nhiều chuyên mục theo chủ đề. Nội dung lẫn lộn nhưng khá giải trí.
+- [噗浪 Plurk](https://www.plurk.com/): Dịch vụ micro-blog của Đài Loan.
+- [微博](https://weibo.com/) (Weibo): Mạng microblog rất phổ biến ở Trung Quốc.
+- [知乎](https://www.zhihu.com/): Hỏi đáp và bài viết, tương tự Quora.
+- [Medium](https://medium.com/chinese-language-collection): Website bài viết; nên tìm bằng từ khóa tiếng Trung.
+- [Matters](https://matters.news/): Website bài viết giống Medium, dùng blockchain; nhiều bài sâu sắc, nhất là về chính trị.
+- [爱思想](http://www.aisixiang.com/): Nơi nhiều học giả Trung Quốc đăng bài luận.
+- [CNKI 知网](https://www.cnki.net/): Trang chính để tìm và tải bài nghiên cứu học thuật tại Trung Quốc đại lục.
+- [Reading the China Dream](https://www.readingthechinadream.com/people.html): Giáo sư David Ownby dịch các bài luận quan trọng; thường có link đến bản gốc tiếng Trung và phần giới thiệu bối cảnh.
+- [中国数字时代 China Digital Times](https://chinadigitaltimes.net/chinese): Bài viết chính trị và kho lưu trữ bài bị kiểm duyệt.
+- [政见 CNPolitics](http://cnpolitics.org/): Website chính trị học, chuyển hóa nghiên cứu học thuật thành bài viết dễ tiếp cận.
+- [菜市場政治學](https://whogovernstw.org/): Website chính trị học Đài Loan cho công chúng, đã xuất bản 2 cuốn sách.
+- [法律白話文運動 Plain Law Movement](https://plainlaw.me/): Website thảo luận pháp luật, có podcast.
+- [沃草 Watchout](https://watchout.tw/): Truyền thông công dân Đài Loan, thúc đẩy sự tham gia chính trị.
+- [Antimoon](http://www.antimoon.com/wiki/Chinese): Blog học ngôn ngữ, một số bài được dịch sang tiếng Trung.
+- 谷雨实验室: Bài viết phi hư cấu. [WeChat](https://wemp.app/accounts/2a9976c2-ecd6-4162-a2bf-261e4c024cbc)
+- [MBA 智库](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5): Giải thích thuật ngữ kinh doanh/tài chính, giống Investopedia.
+- [歪脑读](https://www.wainao.me/wainao-reads): Bài viết về vấn đề xã hội Trung Quốc từ phía Mỹ.
+- [台灣資訊環境研究中心 IORG](https://iorg.tw/): Trung tâm nghiên cứu môi trường thông tin Đài Loan.
+- [美國台灣觀測站 US Taiwan Watch](https://www.ustw.watch/zh): Think tank và truyền thông về quan hệ Mỹ–Đài Loan.
+- [台灣民主實驗室 Doublethink Lab](https://medium.com/doublethinklab-tw): Nghiên cứu thao túng thông tin và chủ nghĩa độc tài kỹ thuật số.
+- [中国民间档案馆 China Unofficial Archives](https://minjian-danganguan.org/zh): Lưu trữ tài liệu lịch sử phi chính thức của người Trung Quốc.
+- [法律百科 Legispedia](https://www.legis-pedia.com/): Bài viết pháp luật.
+- [法律人 Lawplayer](https://lawplayer.com/): Tham khảo và phân tích pháp luật.
+- [芭樂人類學 Guava Anthropology](https://guavanthropology.tw/): Blog tập thể của các nhà nhân học trẻ tại Đài Loan.
+- [歷史學柑仔店](https://kamatiam.org/)
+- [故事 StoryStudio](https://storystudio.tw/)
+- [泛科學 PanSci](https://pansci.asia/)
+- [巷仔口社會學 Streetcorner Sociology](https://twstreetcorner.org/)
+- [公民行動影音紀錄資料庫 CivilMedia@TW](https://www.civilmedia.tw/): Truyền thông độc lập ghi lại phong trào xã hội tại Đài Loan (có podcast).
+
+## Tạp chí
+
+- [淘宝 Taobao](https://taobao.com/): Trang mua sắm lớn nhất Trung Quốc đại lục; nhiều sách, lưu ý sách in lậu.
+- [杂志铺图书专营店](https://zzpts.world.tmall.com/)
+- [京东 JD](https://www.jd.com/): Trang mua sắm lớn, nhiều sản phẩm tự doanh.
+- [杂志铺旗舰店](https://zazhi.jd.com/)
+- Nên tìm tài khoản công khai WeChat của tạp chí để đăng ký theo dõi.
+- Tạp chí cụ thể:
+- [财新周刊 Caixin Weekly](https://weekly.caixin.com/)
+- 人物杂志 Renwu
+- [读书](https://wemp.app/accounts/59f38d0b-a8ac-451c-8800-7400e14d9dce)
+- 读者
+- [《读者》电子版在线阅读](https://www.dzwzzz.com/)
+- [南风窗 South Reviews](https://www.nfcmag.com/)
+- [半月谈](http://www.banyuetan.org/)
+- [中国国家地理 China National Geographic](http://www.dili360.com/)
+- [天下雜誌 Commonwealth Magazine](https://www.cw.com.tw/)
+- [換日線 Crossing](https://crossing.cw.com.tw/)
+- [遠見雜誌 Global Views Monthly](https://www.gvm.com.tw/)
+
+## Nền tảng tin tức
+
+- [端传媒 The Initium](https://theinitium.com/): Báo trực tuyến có phí, khá cân bằng, hỗ trợ giản/thể.
+- [今日头条](https://www.toutiao.com/)
+- [澎湃新闻 The Paper](https://www.thepaper.cn/)
+- [财新 Caixin](http://www.caixin.com/)
+- [网易新闻](https://news.163.com/)
+- [新浪新闻](https://news.sina.com.cn/)
+- [腾讯新闻](https://news.qq.com/)
+- [BBC News 中文](https://www.bbc.com/zhongwen/simp)
+- [纽约时报中文网](https://cn.nytimes.com/)
+- [华尔街日报中文网](https://cn.wsj.com/)
+- [FT 中文网](http://www.ftchinese.com/)
+
+## Chương trình truyền hình
+
+### Nền tảng
+
+- [Netflix](https://www.netflix.com/)
+- [iQIYI 爱奇艺](https://www.iqiyi.com/)
+- [iQIYI Quốc tế](https://www.iq.com/)
+- [腾讯视频](https://v.qq.com/)
+- [WeTV](https://wetv.vip/zh-cn?language=en)
+- [优酷 Youku](https://www.youku.com/)
+- [Viki Rakuten](https://www.viki.com/)
+- [YouTube](https://www.youtube.com/)
+
+### Phụ đề
+
+- [SubHD](https://subhd.tv/)
+- [Assrt](https://assrt.net/)
+- [R3 字幕](https://r3sub.com/)
+- [A4k 字幕网](https://www.a4k.net/)
+
+## Video
+
+### Nền tảng
+
+- [哔哩哔哩 bilibili](https://www.bilibili.com/)
+- [Chinese Zero to Hero](https://www.zerotohero.ca/en/zh/youtube/browse/all/all/0)
+- 抖音 (phiên bản Trung Quốc của TikTok)
+- 快手
+- [一席](https://yixi.tv/)
+- [Twitch](https://www.twitch.tv/)
+- [斗鱼](https://www.douyu.com/)
+- [虎牙](https://www.huya.com/)
+- [YouGlish](https://youglish.com/chinese)

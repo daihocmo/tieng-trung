@@ -1,5 +1,7 @@
 # Hướng dẫn tự học Tiếng Trung
 
+**Ghi chú:** Bạn nên (_cần_) đọc [Hướng dẫn tự học ngoại ngữ đầy đủ này](https://daihocmo.github.io/ngoai-ngu/orca/giai-doan-0/) để hiểu về phương pháp học ngoại ngữ được trình bày trong trang này
+
 Học tiếng Trung để xem C-drama mà không cần phụ đề, đọc manhua và tiểu thuyết, hoặc giao tiếp với người Trung đều đòi hỏi những kỹ năng nền tảng giống nhau: khả năng hiểu tiếng Trung tự nhiên thông qua việc đọc và nghe.
 
 Để đạt được trình độ Tiếng Trung cao cần **rất nhiều thời gian**. Vậy nên, nguyên tắc cơ bản là:

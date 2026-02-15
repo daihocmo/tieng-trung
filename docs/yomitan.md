@@ -25,23 +25,17 @@ Khi bạn mới cài Yomitan lần đầu, bạn sẽ cần cài từ điển đ
 
 Những tệp này sử dụng phần mở rộng `.zip` (file extension) và **bạn không cần phải giải nén nó ra.**
 
-Bạn có thể xem danh sách [từ điển Tiếng Trung cho Yomitan](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#mandarin-chinese) (Chủ yếu là Trung - Anh). Dưới đây là một số từ điển mà mình tìm được (Bấm vào tên từ điển để tải luôn nhé):
+### Danh sách từ điển
 
-### Từ điển song ngữ (Trung - Việt)
+- Từ điển Trung - Việt: [Truy cập kho từ điển Trung - Việt cho Yomitan](https://yomitan-vi.github.io/tu-dien-trung-viet-yomitan/) (Bao gồm từ điển mtBab và VDICT).
+- Từ điển chữ Hán: [HanziDictVN](https://yomitan-vi.github.io/tu-dien-hanzi-yomitan/)
 
-(;-; _Ít từ điển chất lượng quá_, khuyến khích dùng từ điển Trung - Anh hoặc từ điển đơn ngữ nếu có thể. Những từ điển dưới đây chỉ tra được Giản thể thôi nhé)
+### Các từ điển khác
 
-[Từ điển Trung-Việt β (trung) v1.0](https://github.com/catusf/tudien/releases/download/v4.4/TrungViet-small.yomitan.zip)
+Bạn có thể xem danh sách:
 
-[OVDP Trung - Việt](https://thu-tram.github.io/viet-yomitan/dictionaries/odvp-zh-vi.zip)
-
-Bạn truy cập vào [Kaikki](https://yomidevs.github.io/kaikki-to-yomitan/) này rồi ở mục "Main Dictionaries" bạn chọn như thế này (_Chinese, Mandarin_ và _Vietnamese_) và bấm "Download" để tải từ điển:
-
-![](img/kaikki1.png)
-
-### Từ điển đơn ngữ (Trung - Trung)
-
-[Kho từ điển Tiếng Trung Yomitan - Google Drive](https://drive.google.com/drive/folders/1JT6PFl6_wC-_PGCJGOOolGbieQRr5PmP)
+- [Từ điển Tiếng Trung cho Yomitan (`MarvNC/yomitan-dictionaries`)](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#mandarin-chinese) (Truy cập trang này để tải từ điển đơn ngữ cũng các từ điển Tiếng Trung - Tiếng Anh).
+- [Kho từ điển Tiếng Trung Yomitan - Google Drive](https://drive.google.com/drive/folders/1JT6PFl6_wC-_PGCJGOOolGbieQRr5PmP)
 
 ## Cài đặt từ điển và sử dụng cơ bản
 

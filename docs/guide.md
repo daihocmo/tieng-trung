@@ -1,22 +1,97 @@
 # Hướng dẫn tự học Tiếng Trung
 
-**Ghi chú:** Bạn nên (_cần_) đọc [Hướng dẫn tự học ngoại ngữ đầy đủ này](https://daihocmo.github.io/ngoai-ngu/orca/giai-doan-0/) để hiểu về phương pháp học ngoại ngữ được trình bày trong trang này
+## 1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
 
-Học tiếng Trung để xem C-drama mà không cần phụ đề, đọc manhua và tiểu thuyết, hoặc giao tiếp với người Trung đều đòi hỏi những kỹ năng nền tảng giống nhau: khả năng hiểu tiếng Trung tự nhiên thông qua việc đọc và nghe.
+Có một số lượng không nhỏ những người bắt đầu học Tiếng Trung để có thể trải nghiệm nội dung bằng Tiếng Trung hoặc để có thể nói Tiếng Trung trôi chảy và một số các mục tiêu khác. Dù vậy, không ít người sau nhiều năm học vẫn không thể đạt được mục tiêu ấy. Do việc học ngoại ngữ quá khó? Hay do chưa đủ chăm?
 
-Để đạt được trình độ Tiếng Trung cao cần **rất nhiều thời gian**. Vậy nên, nguyên tắc cơ bản là:
+Có lẽ vấn đề không phải nằm ở những người học ấy, mà là ở phương pháp. Trong việc học ngôn ngữ, phương pháp học của bạn tạo ra sự khác biệt rất lớn trong khả năng và tốc độ tiến bộ ngoại ngữ của bạn.
 
-## Dành càng nhiều thời gian cho Tiếng Trung càng tốt
+Khó có thể đạt được những mục tiêu như vậy chỉ với các phương pháp học ngoại ngữ truyền thống. Nhiều người "thất bại" vì thiếu vào một phần quan trọng, **immersion**, trong quá trình học tập. **Immersion** để chỉ việc nghe hoặc đọc nội dung của người bản ngữ dành cho người bản ngữ. 
 
-Yếu tố cốt lõi quyết định tốc độ học Tiếng Trung của bạn là **thời gian**. Nếu bạn muốn giỏi nhanh hơn thì hãy đặt mục tiêu là dành nhiều thời gian nhất có thể để học. Càng nhiều càng tốt. Điều này còn quan trọng hơn nhiều việc có phương pháp học tập hay những nguồn tài nguyên tốt.
+Ví dụ: Xem C-Drama Không sử dụng phụ đề là một cách ta thực hiện immersion Tiếng Trung.
 
-Để bắt đầu xây dựng thời gian cho việc học Tiếng Trung của cá nhân bạn, bạn cần phải học hàng ngày. Lý tưởng là dành ít nhất một tiếng mỗi ngày. Sẽ không có giới hạn thời gian, bạn càng dành nhiều thời gian, bạn càng trở nên giỏi nhanh hơn.
+## 1.2 Vấn đề của phương pháp học truyền thống
 
-Trong lộ trình này, phần bạn sẽ dành nhiều thời gian nhất chính là việc tiêu thụ nội dung được làm ở Tiếng Trung của bạn, và nó cũng có thể là thứ mà bạn muốn làm nhất trong quá trình học Tiếng Trung bởi bạn sẽ là người chọn ra thứ mà bạn muốn xem/nghe/đọc.
+![study_wakaranai_boy](img/study_wakaranai_boy.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
 
-Ở mỗi giai đoạn, mình sẽ giải thích tương đối về những nhiệm vụ mà bạn cần thực hiện. Phần hướng dẫn này sẽ tương đối ngắn và chỉ bao gồm những phần chính trong quá trình học Tiếng Trung thông qua Immersion. Nếu bạn cảm thấy chưa đủ và muốn đọc thêm để hiểu hơn về phương pháp học Tiếng Trung, bạn có thể đọc thêm các bài viết trên trang hoặc ghé trang [Hướng dẫn đề xuất](recommendations.md) để đọc thêm các hướng dẫn tương tự được viết bằng Tiếng Anh (Chắc chắn tốt hơn phần mình viết hoặc dịch lại nên nếu bạn có thể đọc Tiếng Anh đừng ngại qua đọc thêm nha).
+Học ngoại ngữ theo phương pháp "truyền thống" thì thường sẽ kiểu như này:
 
-## Hệ thống ngôn ngữ
+-   Học bảng chữ cái.
+-   Học các câu cơ bản như câu chào hỏi, tự giới thiệu.
+-   Học cấu trúc ngữ pháp và từ vựng cơ bản.
+-   Nghĩ ra câu bằng cách trò chuyện với giáo viên hoặc bạn học hoặc bằng cách viết.
+-   Dịch các câu ví dụ từ Tiếng Việt sang ngôn ngữ đích (TL - Target Language) và ngược lại.
+-   Tra cứu thêm tài liệu về cấu trúc ngữ pháp và từ vựng trong sách giáo khoa hoặc xem video YouTube
+-   Thực hành hội thoại sử dụng kiến thức đã học.
+-   Tích lũy thêm nhiều cấu trúc từ vựng và ngữ pháp và lấy số lượng làm thước đo cho sự tiến bộ của bản thân
+- Và cuối cùng là đến giai đoạn cuối, chuyển đến sống hoặc đi du lịch Trung Quốc với hy vọng có cơ hội rèn luyện kỹ năng của mình.
+
+Bản thân việc học như này hoàn toàn ổn, nhưng chưa đủ để giúp bạn đạt được trình độ cao. Vấn đề là những người học thuộc nhóm trên không tương tác với ngôn ngữ thực tế.
+
+Lấy bơi lội làm ví dụ: Bạn không thể chỉ mãi ở hồ dành cho trẻ con, đeo phao và hy vọng rằng mình sẽ thành thạo kỹ thuật bơi trong cái hồ đó trước khi bước sang hồ lớn. Làm vậy sẽ không bao giờ khiến bạn trở thành một người biết bơi thực thụ. Cũng giống như bạn không thể trở thành vận động viên bơi lội chỉ bằng cách học lý thuyết và luyện động tác trên cạn, mà không bao giờ nhảy xuống nước thật.
+
+Một ví dụ dễ liên hệ hơn: game đối kháng. Bạn sẽ không thể chơi giỏi chỉ bằng cách luyện với máy hoặc tập trong chế độ huấn luyện cả ngày. Muốn giỏi, bạn phải bước vào trận đấu thực sự – chơi với người thật, chấp nhận rằng mình có thể thua tơi tả. Đó mới là “chơi thật”.
+
+<div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
+  Điều quan trọng là: phải học cách bước tiếp
+</div>
+
+Người mới học thường mắc một cái bẫy là cố gắng học tài liệu cho đến khi hiểu hết mới thôi và không thực hiện immersion vì chưa cảm thấy thoải mái hay "sẵn sàng". Tuy nhiên, cần ngừng sử dụng tài liệu cho người mới học càng sớm càng tốt vì trên thực tế, bạn sẽ không bao giờ cảm thấy sẵn sàng nếu không bắt đầu tiếp xúc với ngôn ngữ thực tế và làm quen với nó.
+
+Chủ nghĩa cầu toàn có thể là con dao hai lưỡi trong việc học ngôn ngữ. Tốn quá nhiều thời gian và công sức mà không đạt được nhiều kết quả, cố ghi nhớ từng chi tiết nhỏ nhất của những thứ không thực sự quan trọng trong cả quá trình học dài đấy.
+
+Học một ngôn ngữ giống như leo núi vậy. Bạn có thể cố gắng leo mà không dùng đến bất kỳ công cụ hỗ trợ nào – và dù sẽ rất vất vả, nếu kiên trì, bạn vẫn có thể đến đích. Việc học theo cách truyền thống giống như đang bện một sợi dây thừng để việc leo núi dễ hơn. Nhưng bạn không thể chỉ ngồi đó bện dây mãi – đến một lúc nào đó, bạn phải bắt đầu leo. Dù bạn có làm ra bao nhiêu dây đi nữa, thì việc leo núi vẫn sẽ khó khăn và tốn thời gian. Không có đường tắt – bạn phải thực sự bắt tay vào *làm*.
+
+## 1.3 Quy mô của ngôn ngữ
+
+Ngôn ngữ thực sự quá rộng lớn. Có quá nhiều thứ vượt xa ranh giới trong một lớp học hoặc phương pháp dạy theo kiểu "x có nghĩa là y" (A is B) hoặc "x thực hiện hành động y" (A does B). Để thành thạo một ngôn ngữ ở cấp độ cao cần một lượng lớn "đọc" và "nghe" nội dung ngôn ngữ đích.
+
+Và thường thì rất khó để hiểu tại sao họ lại dùng *câu đó* trong *tình huống kia*, hay *từ này* thay vì *từ kia*. Điều đó tạo nên một rào cản lớn cho người học – bởi vì bạn không thể chỉ học mỗi ngữ pháp và từ vựng mà mong nói được như người bản xứ.
+
+Nếu không có những trải nghiệm cần thiết, việc cố gắng tự tạo câu ở ngôn ngữ mục tiêu thường khiến cho cách diễn đạt trở lên thiếu tự nhiên hoặc khó hiểu. Thêm nữa, việc không hiểu hoặc chưa hiểu rõ cách người bản ngữ sử dụng ngôn ngữ của họ khiến việc hiểu họ trở nên khó khăn hơn rất nhiều do không quen với cách diễn đạt bên ngoài phạm vi của tài liệu học tập.
+
+Đây là lý do tại sao trong việc học ngoại ngữ cần có **"immersion" - đọc và nghe những gì người bản ngữ viết và nói.**
+
+Học ngôn ngữ là một quá trình ghi nhớ các pattern (mẫu) trong vô thức thông qua comprehensible input. Điều này có nghĩa là, khi bạn hiểu điều gì đó (comprehensible) trong quá trình immersion, bộ não của bạn sẽ vô thức lưu mẫu (pattern) đó vào trong đầu để có thể sử dụng trong tương lai. Nó sẽ kiểu như: "Ê mày, có mẫu số 234 được sử dụng với mẫu số 82 và mẫu số 10 kìa".
+
+Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên. Một số người không phải là người bản ngữ Tiếng Anh và có thể là đã học ngữ pháp Tiếng Anh từ trước, nhưng họ sẽ chẳng mấy khi nghĩ về các cấu trúc ngữ pháp khi tương tác với Tiếng Anh hàng ngày.
+
+## 1.4 Chấp nhận cảm giác khó chịu và mù mờ
+
+![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
+
+Trong việc học ngôn ngữ hay trong bất cứ lĩnh vực nào đòi hỏi kỹ năng, bạn sẽ luôn gặp khó khăn trong một thời gian dài cho đến khi bạn tiến bộ hơn. Như đã nói ở trên, nhiều người học (mình cũng đã từng như vậy) cứ cố gắng học thật tốt một thứ gì đó trước khi sử dụng chúng trong thực tế.
+
+Ví dụ, một người học khi cố học một cấu trúc ngữ pháp nào đó quá lâu và không chuyển sang những nội dung khác mà họ nên học.
+
+<div style="text-align: center; font-weight:bold">
+<h3>↑ Đây là điều chúng ta cần tránh</h3 >  </div>
+
+Không dễ dàng gì để có thể hiểu hết quyển light novel hay một bộ anime ngay lần đầu. Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
+
+## 1.5 "Immersion" là cái gì?
+
+Immersion là khi bạn tương tác với nội dung tự nhiên bằng ngôn ngữ mục tiêu (ở đây là Tiếng Trung). Là nội dung KHÔNG hề được làm hoặc chọn lọc kỹ càng cho người học mà được làm bởi chính người bản ngữ cho người bản ngữ.
+
+Nếu bạn là người học Tiếng Trung, việc xem một bộ C-Drama sẽ được tính là bạn đang "thực hành immersion Tiếng Trung", bởi vì C-Drama bất kì không hề được đơn giản hóa hay giúp cho người học Tiếng Trung. Nó được làm cho những người nói Tiếng Trung ở mức độ bản ngữ/thành thạo. Vì vậy, khi bạn nghe hoặc đọc nội dung Tiếng Trung mà người Trung cũng thường  tiêu thụ, bạn đang thực hành immersion.
+
+Theo thuật ngữ thì được gọi là *input*, nhưng mình thích dùng *immersion* hơn.
+
+## 1.6 Cách tiếp cận "từ trên xuống" (top-down) trong việc học ngôn ngữ
+
+Việc học một ngôn ngữ yêu cầu bạn phải hài lòng với việc không hiểu tất cả mọi thứ.
+
+Điều này hoàn toàn khác so với cách học ở trường lớp, nơi chủ nghĩa hoàn hảo được tuyên dương dựa trên thành tích học và được xếp loại thông qua các tiêu chí hoặc các kỳ thi. 
+
+Những người học ở trên dễ cảm thấy nản vì không hiểu được tất cả hoặc phần nhiều khi tương tác với ngôn ngữ thực tế, cho dù đó là một bộ phim truyền hình, hay một quyển sách hoặc thậm chí chỉ là một cuộc hội thoại bình thường với người bản ngữ. Việc tiếp tục như vậy khi bạn hiểu rất ít nghe có vẻ không hợp lí, nhưng như đã nói ở các phần trước, học một ngôn ngữ cũng giống như nhảy vào hố sâu bất tận vậy.
+
+Điều khiến việc học ngôn ngữ trở nên quá đỗi khác biệt so với các môn học ở trường là nó dựa trên việc sử dụng ngôn ngữ một cách tự nhiên và thực tế, thứ mà tài liệu học tập không thể truyền tải được. Vì vậy, cách duy nhất để làm quen với mọi thứ là chấp nhận sự mù mờ (low comprehension - độ hiểu thấp), vì càng tương tác với ngôn ngữ nhiều thì sẽ càng tiến bộ hơn.
+
+Tất nhiên, chúng ta không *chỉ* thực hiện immersion mà không làm gì khác. Cũng cần học những thứ như ngữ pháp và từ vựng. Đồng thời, sử dụng từ điển để học từ trong quá trình immersion.
+
+## 2.1 Cách học Tiếng Trung
+
+### Hệ thống ngôn ngữ
 
 Trước khi bắt đầu, chúng ta sẽ nói qua về _Chữ Hán phồn thể là gì? Giản thể là gì?_.
 
@@ -35,7 +110,7 @@ Giờ chúng ta sẽ nói về _Tiếng Quảng Đông_ (廣東話 – Cantonese
 
 Hướng dẫn này sẽ tập trung vào _Tiếng Phổ thông_ (普通话 – Mandarin).
 
-### Chữ Hán và Pinyin
+#### Chữ Hán và Pinyin
 
 Hệ thống chữ viết chính ở Trung Quốc đại lục là chữ Hán (giản thể).
 
@@ -51,7 +126,7 @@ Ví dụ:
 
 Học nhanh về Pinyin trong gần 30 phút, có phụ đề Tiếng Việt, xem [tại đây](https://www.youtube.com/watch?v=XbZ8qqNi_sQ).
 
-### Thanh điệu (声调)
+#### Thanh điệu (声调)
 
 Ta có 4 Thanh điệu chính + 1 Thanh nhẹ:
 
@@ -77,7 +152,7 @@ Phát âm luôn quan trọng, dù là bạn học ngôn ngữ nào. Nhưng đố
 
 Việc học Pinyin vững không chỉ giúp ích cho việc nghe, mà bạn sẽ có thể tra từ điển một cách chính xác nếu nghe thấy một từ mới. Điều này sẽ càng thúc đẩy quá trình học của bạn tiến bộ.
 
-## Học chữ Hán
+## 2.2 Học chữ Hán
 
 Sau khi đã quen với Pinyin và phát âm cơ bản, bạn có thể bắt đầu học cấu trúc chữ Hán. Chữ Hán (汉字) là hệ thống chữ viết truyền thống của người Trung Quốc, ngày nay chữ Hán là chữ giản thể. Khác với tiếng Việt hay Tiếng Việt, chữ Hán không phải là bảng chữ cái. Chữ Hán là một hệ chữ biểu ý, mỗi ký tự sẽ có cách phát âm và ý nghĩa riêng.
 
@@ -106,7 +181,7 @@ Trong thời hiện đại, việc có thể viết tay được không còn qu�
 
 Tuy nhiên, nếu bạn **thực sự** muốn học viết tay (phân biệt rõ với việc viết trên máy nha) thì bạn có thể đọc qua bài [Quy tắc viết chữ Trung Quốc (Hán) nhanh và đẹp](https://toihoctiengtrung.com/cach-viet-tieng-trung) để tìm hiểu về quy tắc khi viết chữ Hán. Khi viết trên máy tính hay điện thoại thì bạn chỉ cần nhớ Pinyin của nó là được.
 
-## Từ vựng
+## 2.3 Từ vựng
 
 Rất khó để nói hết được tầm quan trọng của việc học từ vựng trong tiếng Trung. Với số lượng từ tiếng Trung khổng lồ cần học, bạn có thể tránh được rất nhiều nản chí ban đầu nếu bắt đầu từ những từ quan trọng nhất. Nhưng chọn thế nào? Chúng ta sẽ xem ba lựa chọn sau:
 
@@ -178,7 +253,7 @@ Một số các ứng dụng từ điển trên máy tính bao gồm [Yomitan](h
 
 [Hướng dẫn setup cho việc học Tiếng Trung](setup.md) - Sau khi bạn cài xong Anki, Goldendict và Yomitan ở trên thì hãy đọc hướng dẫn cài đặt này để hướng dẫn tận dụng các phần mềm đã được cài đặt ở trên
 
-## Ngữ pháp
+## 2.3 Ngữ pháp
 
 Bước đầu tiên sẽ giúp bạn chuẩn bị hành trang để ~~bước vào lớp 1~~ bắt đầu tiêu thụ nội dung Tiếng Trung của bạn. Có một số người cho rằng nên bắt đầu thực hành Immersion từ ngày đầu tiên, nhưng cá nhân mình gợi ý bạn nên dành một vài tuần đầu học từ vựng và ngữ pháp cơ bản. Trước hết sẽ có một số hướng dẫn/gợi ý sau đây:
 
@@ -191,7 +266,7 @@ Bước đầu tiên sẽ giúp bạn chuẩn bị hành trang để ~~bước v
 
 **Ghi chú**: Có thể bạn sẽ bất ngờ khi đọc điều này nhưng bạn không nên chờ đợi đến khi nào học giỏi đến một trình độ nào đấy để bắt đầu nghe Tiếng Trung, xem phim Trung hay đọc truyện Tiếng Trung mà bạn yêu thích. Bạn có thể bắt đầu ngay trong lúc mình đang học ngữ pháp và từ vựng. Điều đó càng giúp bạn yêu Tiếng Trung và có thêm động lực học.
 
-## Tiêu thụ nội dung Tiếng Trung (Immersion)
+## 2.4 Tiêu thụ nội dung Tiếng Trung (Immersion)
 
 Nếu bạn đã hoàn thành (hoặc gần xong) bộ thẻ từ vựng cơ bản ở Tiếng Trung đồng thời có một lượng hiểu ngữ pháp tương đối, chúc mừng bạn nha.
 
@@ -224,7 +299,7 @@ Tiện ích trình duyệt (extension) [Yomitan](https://yomitan.wiki) giúp đ�
 3. Ghi lại mẫu ngữ pháp đấy vào một danh sách riêng của bạn hoặc chỗ nào bạn muốn.
 4. Ôn tập thường xuyên
 
-## Comprehensible Input
+## 2.5 Comprehensible Input
 
 _Comprehensible input_ (đầu vào dễ hiểu) là một khái niệm trong việc học ngôn ngữ: nhà ngôn ngữ học Stephen Krashen cho rằng việc tiếp nhận _đầu vào_ (input, ý chỉ nghe và đọc) có độ khó chỉ nhỉnh hơn một chút so với trình độ hiện tại của người học là cách tốt nhất để học ngôn ngữ. Loại input như vậy được gọi là _comprehensible input_. Xem thêm tại [mục Wikipedia về _monitor model_ của Krashen](https://en.wikipedia.org/wiki/Input_hypothesis).
 
@@ -283,13 +358,13 @@ Phim truyền hình Trung Quốc (đa số là người đóng) được gọi l
 - [“TeaTime Chinese”](https://teatimechinese.com/) là một podcast nói về nhiều chủ đề khác nhau bằng tiếng Trung đơn giản, dễ hiểu.
 - [“Every little thing Chinese”](https://www.youtube.com/playlist?list=PL1SoADOGl5fsy5TDj8vueArNJnrU8SEWJ) là podcast dành cho người học ở trình độ HSK 2. Có mặt trên các nền tảng podcast lớn (đầy đủ tập) và trên YouTube (một số tập).
 
-## Output nhiều hơn nữa
+## 2.6 Output nhiều hơn nữa
 
 Một khi bạn có mức hiểu tương đối tốt về Tiếng Trung và có thể đọc một cách dễ dàng hơn, đã đến lúc tập speaking với người bản ngữ thường xuyên hơn rồi. Điều này cũng tương tự cho việc tập viết (Không nhất thiết phải viết trên giấy) và có người sửa sai cho bạn. Điều này không có nghĩa là bạn không thể output từ sớm. Nếu bạn có cơ hội output từ sớm, bắt đầu luôn cũng không vấn đề gì, nhưng nhớ là [cần phải Immersion song song](https://daihocmo.github.io/ngoai-ngu/speaking). **Chỉ giỏi đọc là chưa đủ để giỏi viết**, và điều này cũng tương tự với việc nói, **chỉ giỏi nghe là chưa đủ để giỏi nói**. Tuy chưa đủ nhưng chúng là điều kiện cần để bạn có thể giỏi Output, bản thân Output (Nói, Viết) không phải là cách học Tiếng Trung mà Input (Nghe, Đọc) mới chính là học Tiếng Trung. Về phần này bạn có thể đọc câu trả lời cho câu hỏi [Is it bad if I make a mistake when speaking?](http://learnjapanese.moe/faq/#is-it-bad-if-i-make-a-mistake-when-speaking) và bài viết [Nói Tiếng Anh](https://daihocmo.github.io/ngoai-ngu/speaking/)
 
 Có khá nhiều nền tảng có thể giúp bạn tìm được người Trung để bắt chuyện chém gió. Nếu bạn đã học được Tiếng Trung được đến giai đoạn này thì hãy thử sức giao tiếp với người Trung xem.
 
-## Từ giờ cho đến về sau
+## 3.1 Từ giờ cho đến về sau
 
 Làm bất kì điều gì bạn muốn. Thi chứng chỉ Tiếng Trung (HSK) thử xem nếu bạn muốn, đó là một cột mốc đánh dấu nỗ lực của bản thân. Bạn có thể làm bất kì điều gì bạn muốn với Tiếng Trung.
 
@@ -302,7 +377,7 @@ Những thứ bạn cần làm:
 3. Cài đặt các công cụ cần thiết, xây dựng môi trường học Tiếng Trung.
 4. Tạo một bộ thẻ mining sau khi hoàn thành bộ thẻ từ vựng cơ bản
 5. Nạp thêm thật nhiều Input
-6. Thử Output với người bản ngữ Tiếng Trung.
+6. Thử Output với người Trung.
 
 ## Tham khảo
 
